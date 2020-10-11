@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning quantum algorithms, quantum communications and quantum machine learning.
 - 💬 Ask me about quantum computing.
 - 📫 How to reach me: ferjanimedyassine@gmail.com
-- 😄 Pronouns: Mohamed Yassine Ferjani
+- 😄 Pronouns: محمد ياسين الفرجاني
 - ⚡ Fun fact: I'm not entangled yet
 
 
