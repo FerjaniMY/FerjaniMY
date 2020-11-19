@@ -11,4 +11,7 @@
 
 
 
-[![Yassine's github stats](https://github-readme-stats.vercel.app/api?username=FerjaniMY)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Github Stats" align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=FerjaniMY&show_icons=true&theme=algolia" />
+<img alt="Top Langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerjaniMY&theme=algolia" />
+
+[linkedin]: https://www.linkedin.com/in/med-yassine-ferjani/
