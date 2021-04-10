@@ -2,7 +2,6 @@
 
 
 
-- 🔭 I’m currently a final year engineering student majoring in Telecommunications engineering.
 - 🌱 I’m currently learning quantum algorithms, quantum communications and quantum machine learning.
 - 💬 Ask me about quantum computing.
 - 📫 How to reach me: ferjanimedyassine@gmail.com
