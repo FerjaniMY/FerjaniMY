@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning quantum algorithms, quantum communications and quantum machine learning.
+- 🌱 Quantum Algorithms & Quantum Cryptography.
 - 💬 Ask me about quantum computing.
 - 📫 How to reach me: ferjanimedyassine@gmail.com
 - 😄 Pronouns: محمد ياسين الفرجاني
