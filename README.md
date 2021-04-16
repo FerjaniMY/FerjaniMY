@@ -3,7 +3,6 @@
 
 
 - 🌱 Quantum Algorithms & Quantum Cryptography.
-- 💬 Ask me about quantum computing.
 - 📫 How to reach me: ferjanimedyassine@gmail.com
 - 😄 Pronouns: محمد ياسين الفرجاني
 - ⚡ Fun fact: I'm not entangled yet
