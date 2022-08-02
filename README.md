@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Quantum Algorithms - Quantum Cryptography - Theoretical Computer Science .
+- 🌱 Interests: Quantum Cryptography - Quantum Algorithms - Quantum complexity theory .
 - 📫 How to reach me: ferjanimedyassine@gmail.com
 - 😄 Pronouns: محمد ياسين الفرجاني
 - ⚡ Fun fact: I'm not entangled yet
