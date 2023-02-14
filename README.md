@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Research interests: Quantum Cryptography - Quantum Algorithms - Quantum complexity theory .
+- 🌱 Research interests: Theoretical quantum cryptography - Quantum Algorithms - Quantum complexity theory .
 - 📫 How to reach me: ferjanimedyassine@gmail.com
 - 😄 Pronouns: محمد ياسين الفرجاني
 
